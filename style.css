@@ -1,0 +1,18 @@
+body{
+    background: #000;
+    color: #fff;
+    text-align: center;
+}
+.motivation{
+    margin-top: 50px;
+}
+.motivation img{
+    border: 5px solid #fff;
+    width: 50%;
+}
+.motivation h1{
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    text-transform: uppercase;
+  
+}
